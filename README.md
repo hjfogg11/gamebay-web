@@ -1,0 +1,1 @@
+This Github page is linked to a Vercel site with a few games on it. This site is currently under construction, so going to the website alone will give you a 404 error. To play one of the games, go to https://gamebay-web.vercel.app/ then after the / put the name of the folder with the game. I will add a homepage soon.
